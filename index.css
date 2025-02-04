@@ -26,3 +26,14 @@ border: 5px solid green;
 .center {
 text-align: center;
 }
+
+footer img{
+   width: 70px;
+   height: 40px;
+}
+.contact-form input {
+   width: 100%
+   padding: 8px 0px;
+   margin: 8px 0px;
+}
+
